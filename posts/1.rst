@@ -1,0 +1,15 @@
+.. title: My first post
+.. slug: my-first-post
+.. date: 2012-03-30 23:00:00 UTC-03:00
+.. tags: mvalle
+.. author: Marcelo Valle
+.. link: http://mvalle.com/
+.. description:
+.. category: 
+
+.. figure:: ../../images/eu.jpg
+   :target: ../../images/eu.jpg
+   :class: thumbnail
+   :alt: My picture
+
+This is the first post of my new blog
