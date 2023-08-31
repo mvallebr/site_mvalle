@@ -1,6 +1,5 @@
-output/
-cache/
-.doit.db
-*.pyc
-*.swp
-
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
