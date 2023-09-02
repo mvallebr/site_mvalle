@@ -22,10 +22,19 @@ title: Marcelo Valle
 email: mvallebr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog - here I discuss about life, the universe and everything.
+
+author:
+  name: Marcelo Valle
+  email: "mvallebr@gmail.com"
+
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://mvalle.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mvallebr
 github_username:  mvallebr
+
+comments: true
+disqus:
+  shortname: mvallebr
 
 # Build settings
 theme: minima
