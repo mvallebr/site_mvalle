@@ -49,8 +49,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - old_nikola/
+exclude: 
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile

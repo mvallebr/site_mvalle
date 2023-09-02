@@ -1,4 +1,0 @@
-Sitemap: http://mvalle.com/sitemapindex.xml
-
-User-Agent: *
-Host: mvalle.com
