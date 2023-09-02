@@ -39,7 +39,7 @@ github_username:  mvallebr
 
 comments: true
 disqus:
-  shortname: mvallebr
+  shortname: mvalle-com
 
 # Build settings
 theme: minima
