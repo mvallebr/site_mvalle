@@ -27,6 +27,11 @@ author:
   name: Marcelo Valle
   email: "mvallebr@gmail.com"
 
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/mvallebr" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/mvallebr/" }  
+
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mvalle.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mvallebr
@@ -48,8 +53,7 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
-exclude: 
+#exclude: 
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
