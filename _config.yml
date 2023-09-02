@@ -18,24 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Marcelo Valle
+title: mvalle.com
+author:  Marcelo Valle 
 email: mvallebr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal blog - here I discuss about life, the universe and everything.
+  Hi, my name is Marcelo Valle, and this is my personal blog. Here I discuss about life, the universe and everything.
 
-author:
-  name: Marcelo Valle
-  email: "mvallebr@gmail.com"
+google_analytics: UA-13145875-4
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/mvallebr" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/mvallebr/" }  
+    - platform: github
+      user_url: "https://github.com/mvallebr" 
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/mvallebr/" 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mvalle.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mvallebr
 github_username:  mvallebr
+linkedin_username:  mvallebr
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 comments: true
 disqus:
