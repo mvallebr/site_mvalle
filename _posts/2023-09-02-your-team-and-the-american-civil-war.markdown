@@ -4,7 +4,7 @@ title:  "Your team at work and the american civil war"
 date:   2023-09-02 10:30:00 +0100
 categories: personal
 ---
-I am no specialist in (north) american history, but a simple visit to [wikipedia](https://en.wikipedia.org/wiki/American_Civil_War) is enough to understand it was a conflict regarding slavery. From the first paragraph: "The cause of the war was the dispute over whether slavery would be permitted to expand into the western territories, leading to more slave states, or be prevented from doing so, which many believed would place slavery on a course of ultimate extinction.". 
+I am no specialist in (north) american history, but a simple visit to [wikipedia](https://en.wikipedia.org/wiki/American_Civil_War) is enough to understand the American Civil War was a conflict regarding slavery. From the first paragraph: "The cause of the war was the dispute over whether slavery would be permitted to expand into the western territories, leading to more slave states, or be prevented from doing so, which many believed would place slavery on a course of ultimate extinction.". 
 
 When you read the causalities section, the numbers are scary: "The war resulted in at least 1,030,000 casualties (3 percent of the population), including about 620,000 soldier deaths—two-thirds by disease—and 50,000 civilians" - and that's a minimum number, the real percentage of the population that died in this war is huge. 
 
@@ -66,6 +66,8 @@ But can you think of other examples at work where your attitudes, the attitudes 
 
 I want to list some practical situations and ask you to question with me: what of those things are fine and not related to freedom at all and what of those things we should try to change as a society. Are these examples normal? Or are we biased for the world we see today? Would these things be considered as normal 50 years ago?
 
+Please, I am *not* saying I consider all of those scenarios of modern slavery! It's really an exercise to *think about it*.
+
 Scenarios:
 
 - Manager A controls the amount of times people go to the toilet
@@ -97,6 +99,10 @@ What do you think about the scenarios above? Have you ever seen them in practice
 ## Conclusion
 
 I see the american civil war as one big event that signalled a change going on with society, but the change is still happening and it's really hard to know where it will evolve to. What we know, for sure, is that we all take part in that, and IMO, we should all keep this in our minds and start paying attention to the minor things that happen at our workplace. Have you ever stopped to think about these things and their relation to slavery and society organization?
+
+I don't think, at all, that all scenarios I listed above are forms of slavery. But I am very confident in saying some cases are far from being obvious and if I show the same scenarios in front of different people, I am certain I would get many conflicting results. 
+
+That's why those are battles to be fought not as one individual, but for all of us to fight as a society. Some things might not be super clear yet, but if everyone keeps trying to change the world for better and erradicate all forms of slavery, as a society we can evolve on these points, get more clarity on the next steps, and make sure the world we will leave to our descendents will be better than the one we received.
 
 Please do comment, give feedback, I would love to read what you think about the subject. 
 
