@@ -36,15 +36,23 @@ Have you ever thought about that Foxconn case where people have to ask to go to 
 
 I must tell you - I do. Slaveness is a condition, it's a way of understanding the world, it doesn't matter who rules - no slavery means no ruler, being put in the place of the ruler doesn't make you less of a slave. Controlling how often people can go to the toilet might seem normal for some people - *that* is the slavery mindset being alive. Fighting slavery means fighting this kind of mental model, above all. While we still think some people are born to rule and some to obey, slavery is alive. 
 
-When you go to a restaurant, do you like to be served? Do you think the world can only be good when you have a maid to clean your house? This kind of mindset is extremelly common where I was born in Brazil and in many places around the world, and although you don't see people being whipped, don't be tricked - slavery is still there. 
+When you go to a restaurant, do you like to be served? Do you think the world can only be good when you have a maid to clean your house? This kind of mindset is extremelly common where I was born in Brazil and in many places around the world, and although the war has ended for long, don't be tricked - slavery is still there. 
 
 Bare this in mind: *slavery is the mindset towards power and dominance, it's not the phisical coercion itself*. 
+
+## But is it the same thing?
+
+Just to be crystal clear about this, as I know I am touching a very delicate point, by no means I am trying to minimize here in this text the formal slavery as it happened, specially by afro americans in the case of US and other american countries. 
+
+I think there is no doubt that was unacceptable and that it should end, what I am trying to explain here is that eliminating formal slavery is just not enough - because while the mindset is still there, it can still come back or it still exist in some lighter form.
+
+Acknowledging that the real change requires a change in mindset is not the same as saying that the kind of slavery that existed before the way is the same kind we have today - modern slavery is different, but it still something very undesirable.
 
 ## What does it have to do with my team at work
 
 At this point, whoever is reading this text might be asking - ok, but what does all of that have to do with my job? There is no slavery where I work...
 
-Well, once you understand the point I made above, you can start asking yourself whether that's really the case. You might not see people being whipped, but are you sure that slavery mental model is not there where you work? 
+Well, once you understand the point I made above, you can start asking yourself whether that's really the case. You might not see formal slavery, but are you sure that slavery mental model is not there where you work? 
 
 It's useful to think about that, and think about the kind of society you want to live at. The real war is not fought in trenches anymore, the real war is fought in every office space, or every remote workplace, where "soldiers" fight the old days mental model every day. 
 
