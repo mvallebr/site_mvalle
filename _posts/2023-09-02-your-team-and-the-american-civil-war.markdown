@@ -19,6 +19,7 @@ Understanding this point is key for what I want to express here - both slavery a
 The change has started way before the war then, so here is my question for you: has it been completed? Have we really won this war already? We can look at how many dictatorships we have in the world and we will easily see that this has not been the case. Let's look at some examples:
 
 - [Foxconn suicides](https://en.wikipedia.org/wiki/Foxconn_suicides) - in a Chinese firm that has Apple and HP as customers, there have been many cases of suicides due to poor work conditions. People have to ask permissions for their bosses to go to the toilet.
+- [Wineries in Brazil involved in slave labor scandal](https://brazilreports.com/brazilian-wineries-involved-in-a-slave-labor-scandal/4129/) - A case that happened in 2022, where brazilian farmers in the south of the country would hire workers paying low salaries and sell them goods at high prices. The workers got in debt and then could not leave anymore without paying the bills.
 - [Slave markets found on Instagram and other apps](https://www.bbc.co.uk/news/technology-50228549) - in Saudi Arabia there is an app called Haraj, where woman can be bought - this news is from 2019 and it's very likely still the case today. According to [walkfree.org](https://www.walkfree.org/global-slavery-index/country-studies/saudi-arabia/), 740000 people are currently living in modern slavery conditions in Saudi Arabia
 - According to [antislavery.org](https://www.antislavery.org/slavery-today/modern-slavery/#), 49.6 million people around the world live today in some kind of modern slavery condition.
 - Still according to [The Guardian and walkfree.org](https://www.theguardian.com/world/2018/jul/19/us-modern-slavery-report-global-slavery-index), more than 400,000 people could be living in “modern slavery” in the US, a condition of servitude broadly defined in a new study as forced and state-imposed labor, sexual servitude and forced marriage.
@@ -80,6 +81,8 @@ Scenarios:
 - Manager M gives orders to subordinates S1 and S2. The orders given to S1 have a bad outcome and S1 is blamed for the outcome. The orders given to S2 have a good outcome and M showcases how good was the outcome due to management decisions.
 
 - There are 3 engineers in a team, they are told they all make decisions as a team, and the whole team takes responsibility for the decisions. Engineer A wanted to cause an impact and make a big contribution to the team, but because decisions have to be made by all, A can never implement those ideas, because the rest of the team won't be willing to try.
+
+- A manager motivates a team by making everyone feel super special and work harder, making promises like "better work environment" when some milestones are reached, without any intention of (or power to) fulfilling the promise, just lying as a mean to achieving the ends.
 
 What do you think about the scenarios above? Have you ever seen them in practice? Are those all fair scenarios? Do you think it's easy to define the boundary between what's acceptable/normal at a workplace, and what's a "slavery mindset"?
 
