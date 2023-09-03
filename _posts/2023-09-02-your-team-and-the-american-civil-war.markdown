@@ -86,6 +86,10 @@ Scenarios:
 
 What do you think about the scenarios above? Have you ever seen them in practice? Are those all fair scenarios? Do you think it's easy to define the boundary between what's acceptable/normal at a workplace, and what's a "slavery mindset"?
 
+## Conclusion
+
+I see the american civil war as one big event that signalled a change going on with society, but the change is still happening and it's really hard to know where it will evolve to. What we know, for sure, is that we all take part in that, and IMO, we should all keep this in our minds and start paying attention to the minor things that happen at our workplace. Have you ever stopped to think about these things and their relation to slavery and society organization?
+
 Please do comment, give feedback, I would love to read what you think about the subject. 
 
 I will probably write more articles in the future related to this subject, but I had to write this one first to part from the base. I hope you enjoyed it and I hope it made you think about the problem - hopefully in the next ones I will write more about specific problems related to this subject and possible solutions.
