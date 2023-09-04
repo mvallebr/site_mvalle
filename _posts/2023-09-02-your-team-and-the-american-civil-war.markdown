@@ -19,26 +19,26 @@ Understanding this point is key for what I want to express here - both slavery a
 The change has started way before the war then, so here is my question for you: has it been completed? Have we really won this war already? We can look at how many dictatorships we have in the world and we will easily see that this has not been the case. Let's look at some examples:
 
 - [Foxconn suicides](https://en.wikipedia.org/wiki/Foxconn_suicides) - in a Chinese firm that has Apple and HP as customers, there have been many cases of suicides due to poor work conditions. People have to ask permissions for their bosses to go to the toilet.
-- [Wineries in Brazil involved in slave labor scandal](https://brazilreports.com/brazilian-wineries-involved-in-a-slave-labor-scandal/4129/) - A case that happened in 2022, where brazilian farmers in the south of the country would hire workers paying low salaries and sell them goods at high prices. The workers got in debt and then could not leave anymore without paying the bills.
+- [Wineries in Brazil involved in slave labour scandal](https://brazilreports.com/brazilian-wineries-involved-in-a-slave-labor-scandal/4129/) - A case that happened in 2022, where brazilian farmers in the south of the country would hire workers paying low salaries and sell them goods at high prices. The workers got in debt and then could not leave anymore without paying the bills.
 - [Slave markets found on Instagram and other apps](https://www.bbc.co.uk/news/technology-50228549) - in Saudi Arabia there is an app called Haraj, where woman can be bought - this news is from 2019 and it's very likely still the case today. According to [walkfree.org](https://www.walkfree.org/global-slavery-index/country-studies/saudi-arabia/), 740000 people are currently living in modern slavery conditions in Saudi Arabia
 - According to [antislavery.org](https://www.antislavery.org/slavery-today/modern-slavery/#), 49.6 million people around the world live today in some kind of modern slavery condition.
-- Still according to [The Guardian and walkfree.org](https://www.theguardian.com/world/2018/jul/19/us-modern-slavery-report-global-slavery-index), more than 400,000 people could be living in “modern slavery” in the US, a condition of servitude broadly defined in a new study as forced and state-imposed labor, sexual servitude and forced marriage.
+- Still according to [The Guardian and walkfree.org](https://www.theguardian.com/world/2018/jul/19/us-modern-slavery-report-global-slavery-index), more than 400,000 people could be living in “modern slavery” in the US, a condition of servitude broadly defined in a new study as forced and state-imposed labour, sexual servitude and forced marriage.
 
 Well, if you deep analyse the facts above, you will ask: *why*? Why do such things still happen today? Can the world go back to the slavery model the south of US defended during their civil war? Are we certainly evolving, or are we still at risk of going back to that? When will we win this war for good?
 
 ## Freedom is inside your head
 
-One of the hardest things for me to understand in life was that slavery is much more than a phisically forced condition. These cases of slavery happen with something in common, they might even had phisical aggressions, but in many cases it's the culture, the way the person see himself or herself, that makes them to accept that poor condition and understand that's "their normal". 
+One of the hardest things for me to understand in life was that slavery is much more than a physically forced condition. These cases of slavery happen with something in common, they might even had physical aggressions, but in many cases it's the culture, the way the person see himself or herself, that makes them to accept that poor condition and understand that's "their normal". 
 
-Slavery doesn't occur just on the enslaved mind, it also occurs on the enslaver mind. As a brazilian, I am lucky enough to have had contact with many books from a famous brazilian author called [Machado de Assis](https://www.jstor.org/stable/10.5699/portstudies.33.1.0105), who wrote in deep about this subject - his writtings go deep in the analysis of what's happening inside the enslaved and the enslaved minds. I really recommend his work, unfortunately I am not sure how much of it is available in english. 
+Slavery doesn't occur just on the enslaved mind, it also occurs on the enslaver mind. As a brazilian, I am lucky enough to have had contact with many books from a famous brazilian author called [Machado de Assis](https://www.jstor.org/stable/10.5699/portstudies.33.1.0105), who wrote in deep about this subject - his writings go deep in the analysis of what's happening inside the enslaved and the enslaved minds. I really recommend his work, unfortunately I am not sure how much of it is available in english. 
 
 Have you ever thought about that Foxconn case where people have to ask to go to the toilet? Can you imagine that happening to you? Now take a moment and think about the boss, controlling how much people go to the toilet. Do you see him as a slave?
 
-I must tell you - I do. Slaveness is a condition, it's a way of understanding the world, it doesn't matter who rules - no slavery means no ruler, being put in the place of the ruler doesn't make you less of a slave. Controlling how often people can go to the toilet might seem normal for some people - *that* is the slavery mindset being alive. Fighting slavery means fighting this kind of mental model, above all. While we still think some people are born to rule and some to obey, slavery is alive. 
+I must tell you - I do. Slavery is a condition, it's a way of understanding the world, it doesn't matter who rules - no slavery means no ruler, being put in the place of the ruler doesn't make you less of a slave. Controlling how often people can go to the toilet might seem normal for some people - *that* is the slavery mindset being alive. Fighting slavery means fighting this kind of mental model, above all. While we still think some people are born to rule and some to obey, slavery is alive. 
 
-When you go to a restaurant, do you like to be served? Do you think the world can only be good when you have a maid to clean your house? This kind of mindset is extremelly common where I was born in Brazil and in many places around the world, and although the war has ended for long, don't be tricked - slavery is still there. 
+When you go to a restaurant, do you like to be served? Do you think the world can only be good when you have a maid to clean your house? This kind of mindset is extremely common where I was born in Brazil and in many places around the world, and although the war has ended for long, don't be tricked - slavery is still there. 
 
-Bare this in mind: *slavery is the mindset towards power and dominance, it's not the phisical coercion itself*. 
+Bare this in mind: *slavery is the mindset towards power and dominance, it's not the physical coercion itself*. 
 
 ## But is it the same thing?
 
@@ -54,11 +54,11 @@ At this point, whoever is reading this text might be asking - ok, but what does 
 
 Well, once you understand the point I made above, you can start asking yourself whether that's really the case. You might not see formal slavery, but are you sure that slavery mental model is not there where you work? 
 
-It's useful to think about that, and think about the kind of society you want to live at. The real war is not fought in trenches anymore, the real war is fought in every office space, or every remote workplace, where "soldiers" fight the old days mental model every day. 
+It's useful to think about that, and think about the kind of society you want to live at. The real war is not fought in trenches any more, the real war is fought in every office space, or every remote workplace, where "soldiers" fight the old days mental model every day. 
 
 Have you ever had the desired of being "served" by others and to rule? Do you question, when this desire comes, whether everyone doing the same will lead the society for the model you think it's the correct one?
 
-When we see initiatives in the workplace to minimize discrimination, moral and other forms of harassement, uncounscious bias awareness trainings, all that goes in the spirit of changing what matters the most - our mental model as a society. 
+When we see initiatives in the workplace to minimize discrimination, moral and other forms of harassment, unconscious bias awareness trainings, all that goes in the spirit of changing what matters the most - our mental model as a society. 
 
 But can you think of other examples at work where your attitudes, the attitudes of your manager/hierarchy or the attitude of the people who report to you are related to slavery and to this change we want (hopefully you too) see in society?
 
@@ -104,7 +104,7 @@ I see the american civil war as one big event that signalled a change going on w
 
 I don't think, at all, that all scenarios I listed above are forms of slavery. But I am very confident in saying some cases are far from being obvious and if I show the same scenarios in front of different people, I am certain I would get many conflicting results. 
 
-That's why those are battles to be fought not as one individual, but for all of us to fight as a society. Some things might not be super clear yet, but if everyone keeps trying to change the world for better and erradicate all forms of slavery, as a society we can evolve on these points, get more clarity on the next steps, and make sure the world we will leave to our descendents will be better than the one we received.
+That's why those are battles to be fought not as one individual, but for all of us to fight as a society. Some things might not be super clear yet, but if everyone keeps trying to change the world for better and eradicate all forms of slavery, as a society we can evolve on these points, get more clarity on the next steps, and make sure the world we will leave to our descendents will be better than the one we received.
 
 Please do comment, give feedback, I would love to read what you think about the subject. 
 
