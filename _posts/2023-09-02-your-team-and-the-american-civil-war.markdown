@@ -98,13 +98,24 @@ Scenarios:
 
 What do you think about the scenarios above? Have you ever seen them in practice? Are those all fair scenarios? Do you think it's easy to define the boundary between what's acceptable/normal at a workplace, and what's a "slavery mindset"?
 
+
 ## Conclusion
 
 I see the american civil war as one big event that signalled a change going on with society, but the change is still happening and it's really hard to know where it will evolve to. What we know, for sure, is that we all take part in that, and IMO, we should all keep this in our minds and start paying attention to the minor things that happen at our workplace. Have you ever stopped to think about these things and their relation to slavery and society organization?
 
 I don't think, at all, that all scenarios I listed above are forms of slavery. But I am very confident in saying some cases are far from being obvious and if I show the same scenarios in front of different people, I am certain I would get many conflicting results. 
 
-That's why those are battles to be fought not as one individual, but for all of us to fight as a society. Some things might not be super clear yet, but if everyone keeps trying to change the world for better and eradicate all forms of slavery, as a society we can evolve on these points, get more clarity on the next steps, and make sure the world we will leave to our descendents will be better than the one we received.
+If you understood the main message of this article, here are some suggestion of practical actions you and I can do in our workplace to make sure we build better work environments for everyone:
+
+- Start paying attention to your habits and to your team's habits. You might be doing things since you're born that you never questioned before.
+- Remember that many things that were considered normal 50 years ago, for instance, are condemned today, because we evolved as a society in being concious that those habits were wrong. You could be doing things today that will be considered wrong in 50 years. 
+- Before you advocate strongly for something at your workplace, look at the examples above and remember that these things are far from obvious. Try to be concious of that and understand others' point of views. 
+- Keep the discussion about the morality of each situation on. These things are to be discussed, we must exchange ideas about them, if we want to evolve as a society
+- Do position yourself and admit when/if you find out you were wrong - trying to take always the right side of the story might mean nothing. It's not enough to defend the north, you have to understand why they were right and why freedom is something to die for
+- When you're in the strong position and you can take advantage of someone else, question yourself whether this is the society you want to live at. Don't forget your actions are examples to others and even if you take advantage today, tomorrow it might be you or someone you love who is the fragile part
+- Follow my blog :D - I am planning to write more articles about those subjects, so maybe we can improve together? Subscribe to my RSS or follow me on social media!
+
+### Leave your feedback
 
 Please do comment, give feedback, I would love to read what you think about the subject. 
 
