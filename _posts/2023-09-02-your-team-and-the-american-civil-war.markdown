@@ -80,9 +80,11 @@ Scenarios:
 
 - Manager A yells at someone in the team because the person arrive late at work.
 
-- Manager A yells at someone in the team because the person tried to go against his/her orders and deploy to production a software with a bug that could cause death of people.
+- Manager A yells at someone in the team because the person tried to go against his/her orders and performs an action that could cause death of people.
 
-- People sign a work contract saying they have to stay longer at work if needed, but it's not in their control how much will be needed. Software can fail, it wasn't your fault, but you have to be there to fix it - you cannot stop software from breaking as you haven't built it, but if it breaks you're the one who has to do overtime without earning more for that to fix it.
+- Manager A is responsible for everything a team does, but his manager, manager B, tells him he cannot tell engineers what to do. When engineers do something wrong, manager A is blamed.
+
+- People sign a work contract saying they have to stay longer at work if needed, but it's not in their control how much will be needed. 
 
 - People in the team sign a contract with poor working conditions they don't want to accept, but they have to because there is no other job offer for them in the market. 
 
