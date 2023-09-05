@@ -113,6 +113,7 @@ If you understood the main message of this article, here are some suggestion of 
 - Keep the discussion about the morality of each situation on. These things are to be discussed, we must exchange ideas about them, if we want to evolve as a society
 - Do position yourself and admit when/if you find out you were wrong - trying to take always the right side of the story might mean nothing. It's not enough to defend the north, you have to understand why they were right and why freedom is something to die for
 - When you're in the strong position and you can take advantage of someone else, question yourself whether this is the society you want to live at. Don't forget your actions are examples to others and even if you take advantage today, tomorrow it might be you or someone you love who is the fragile part
+- Never forget the person in a position of power is also a slave. Slavery is a mindset, so do not think you're "protected" or that you won't suffer the bad consequences of slavery if you embrace it being in a position of power. It's about who rules, it's about not needing or wanting a ruler, even if it's you.
 - Follow my blog :D - I am planning to write more articles about those subjects, so maybe we can improve together? Subscribe to my RSS or follow me on social media!
 
 ### Leave your feedback
