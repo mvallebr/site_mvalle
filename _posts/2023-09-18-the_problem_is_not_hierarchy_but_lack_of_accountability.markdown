@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The problem is not hierarchy, but lack of accountability"
-date:   2023-09-05 12:30:00 +0100
+date:   2023-09-18 19:30:00 +0100
 categories: personal management
 ---
 
