@@ -95,6 +95,8 @@ Looking at the disadvantages of hierarchy, anarchy seemed like a good solution. 
 
 So, now we see it, it's possible to see clearly that anarchy was just the obvious attempt to move forward regarding the evolution we want - a more free society. It might not have been the solution, but it was a step forward. 
 
+> Decentralization is not the goal, it's a mean. The goal is a more free society.
+
 ## Hierarchy vs Anarchy comparison table
 
 I tried to create a table below with a minimum set of differences between these 2 organization forms. The table is definitely incomplete, but hopefully it transmits the mental model I want to show here - we should constantly be thinking on both as 2 solutions with trade-offs between them, instead of religiously defending one of them for any situation.
@@ -105,15 +107,81 @@ I tried to create a table below with a minimum set of differences between these 
 | Risk of high impact mistakes (like misinformation) | low       | high    | Hierarchy has better control, which can be good if in good hands, but horrible if the top of the hierarchy doesn't bring good results. Anarchy has less control, but many heads can think better than just one.                                                                                                                          |
 | Innovation                                         | hard      | easy    | Hierarchy is good to keep things controlled and working the way they are. Things can change, but they can take time and probably require people in the top to be replaced, some times you have to replace the whole org and start from scratch. Anarchy allows innovation easily, good if you need prototypes, but it's harder to scale. |
 
+What's better for your use case? Would a decentralized organization bring better results? Or would a centralized one? Can you imagine forms of combining both, applying each one in the proper situation?
+
+## How to get to a more free society
+
+Given anarchy is not the solution we thought it was, what is then? 
+
+To answer that question, let's refine a little our concept of freedom. What is a more free society? One could argue that being free is being able to make decisions independently. However, we are free to decide, but we are prisoners of the consequences - if you have the freedom to decide which design to use for a software you're creating, and that design decision results in bugs, you might lose your freedom to work on any task you want, as you will probably have to fix the bugs you generated with your decision. 
+
+In that example - if you were on a team, what would you decide to be free on, if you had the choice between: 
+
+1. To be free to not spend any time studying how to cook
+2. To be free to get a tasty meal in less than 30 min whenever you want
+
+Of course it's an hypothetical example, but hopefully it's enough to show that some times there are conflicts on what to be free on. Freedom is rarely absolute - nature limits the amount of freedom we can have, even if nobody is imprisoning us.  One could argue that a more free society is a society where people can make **all** the choices, in a decentralized way - but looking at the options above, even if you have the freedom to decide, you will lose freedom for either 1 or 2 regardless of what you choose, as nature imposes to us we can't have both. 
+
+So, in a group, how to define freedom and how to define slavery? 
+
+I have a special view on what being free means and I hereby propose the following rough definitions for this:
+
+- **Autonomous** - You're free when you don't need orders to perform actions. Like in the case of cooking, mastery and skills make you more autonomous - the more knowledge you acquire and the more you can move alone without depending on others, the more free you are.  
+
+> Mastery, skills, knowledge and discipline - lead to freedom.
+
+- **Accountable** - If you're not ready to take the consequences of your own acts, you're not free. If you rely on others for everything, that makes you dependable on them, even though it might look like the opposite some times. Never taking accountability on anything moves you towards parasite relationships, where you cannot leave without others doing things for you.
+
+> The best leaders are not afraid of assuming their own mistakes, they do mistakes and learn lessons from them
+
+- **Have common goals** -  humans do not survive alone - we only reached the stage we are as humanity by helping each other.  This is different from being dependent on each other, this regards being part of a group, that moves in the same direction, because the individuals want to get to a common place. 
+
+> The more social and soft skills you have, the more free you are.
+
+- **Organized** - some people think [anarchy](https://en.wikipedia.org/wiki/Anarchy) is the same as chaos, which is the absence of organization - but it's not, the name of this is [anomie](https://en.wikipedia.org/wiki/Anomie). Hierarchy is just another valid form of organization, so people are not necessarily non-free for organizing themselves using a hierarchy. Organization is essential to freedom, as without it you are slave of the waste of time and productivity disorganization implies.
+
+> Societies are only free when they can organize themselves to split and sync the work across individuals 
+
+This last point is very tricky, as hierarchy can be there to organize, but it can be misused to the opposite - and here we arrive at the main point of this article: what is the best way of achieving organization? 
+
+Anarchy can apply in some situations - whenever you have established mechanisms inside a team, or centralized decision making based on votes, if this leads to organized groups, then good. As we saw above, it's not always the case, as anarchy requires a high level of autonomy and mastery from the individuals - the more free the individuals are, the more you can use anarchy as a form of organization. 
+
+But hierarchy is also valid to organize, as long as you ensure it won't drift to just oppression. And how can you do that? How can you make sure hierarchy on a groups is kept under control and only serves to bring organization, not random oppression? 
+
+The answer is not immediately obvious, but IMO the solution is **clarity of delegation**.
+
+### How to use hierarchy the right way
+
+The secret for hierarchy to work fine and understanding that management is just another job, like any other. The hierarchy is just there to bring organization to the group, not to make sure that every decision in a company with 1000s of employees have to be decided by the CEO. 
+
+Companies hire employees so they can make decisions better than the bosses. The boss job is just to bring organization to the chaos, as well as forming more leaders - good leaders will form more leaders and they will want to drive the team members to improve in the qualities that will make them more free - more accountable, more autonomous, working more towards common goals and in the most organized way possible. 
+
+And what about bad leaders? Bad leaders will fail to do that and what happens in most companies is they blame others for their failures, because they are in a position of privilege due to the hierarchy. **That** is the thing we must fight against - leaders must be accountable for what they do and if they are being bad leaders, there must be some mechanism (anarchy again, how odd!) to drive them out. 
+
+> Good leaders create more leaders and turn people into more free.
+> 
+> Bad leaders blame others for their mistakes and get credit for things they didn't do.
+
+I believe the best mechanism I have found to the date for that is [Management 3.0 delegation levels](https://www.youtube.com/watch?v=VZF-G7MCSG4):
+
+[![Management 3.0 delegation levels](https://img.youtube.com/vi/VZF-G7MCSG4/0.jpg)](https://www.youtube.com/watch?v=VZF-G7MCSG4)
+
+In this mechanism, managers are in control of delegation and they can decide whether they will do something themselves, or whether they will delegate something. As things are not always black and white, they can some times delegate most of the decision but still be involved to veto if needed, or delegate but be involved to just keep informed about it, for instance. 
+
+The fact is - when these managers use delegation boards and publish them to their teams and to other parts of the organization, it's much much harder to run away from accountability. Given a situation where something went wrong, you can just look at the delegation board and see whether the team member was to blame, or whether the manager failed on his/her role. 
+
+Good managers are accountable and even if you have hierarchical environments, if you have crystal clear delegation and accountable leaders, who admit their mistakes and who step down as leaders if they are failing, the system works fine. 
+
+> Clear delegation and accountability makes hierarchy work well enough for a free society, decentralization is an option, but not a must have
+
+Bringing this to practical terms - that's what we should be moving towards to. Sure, some things can be decentralized, but instead of assuming everything will be fine with flat hierarchies and anarchy like environments, we should be demanding clear delegation in the work environment. That's what you should be asking questions about in your next interview.
 
 
-## How to fix it
+## TLDR Summary
 
-What can you do to improve your workplace, driving a more free world, but without the problems we find on decentralization attempts?
+Pragmatically, here are the takeaways I hope you got with this reading:
 
-DRAFT
-- Don't part from "we have to do it all democratically" - the most important thing in a team should still be delivering the end result of your work. In the software, software is a solution to someone's problem, so we can generically summarize the main objective as "generating business value" to whoever is benefiting from that software.
-- Free people are independent people - give freedom as they earn trust - people have different levels of experience and knowledge, 2 + 2 is 4, not 22, so lets acknowledge that. Give more autonomy as people become more independent. 
-- Make managers accountable - If we don't want bad decisions to be made, managers have to be hold accountable for the decisions they make - if you want managers to stop making bad decisions at the top, the solution for that is not anarchy, is to have clarity on what success and failure look like before the work start, clear delegation, and hold people accountable when they actually don't do their job well.
-- Enforce clear delegation - Use [Management 3.0 delegation levels](https://www.youtube.com/watch?v=VZF-G7MCSG4) 
-  
+- Focus on results - making decisions as a team can be nice some times, but it's not what you were hired for - do not let yourself to deviate from the team goals thinking the manager is forbidden to make any decisions - hierarchy is not the real evil.
+- Earn your freedom - become more autonomous and independent, be accountable for the responsibilities you pull or are assigned, and pay attention to where the whole group is moving to - you're not an island. Do that for yourself, not because your manager told you to do it.
+- Be accountable - assume mistakes if you make them, be humble, the best leaders are *not* the most arrogant, the best leaders make mistakes and learn a lesson from them.
+- Lack of accountability is the real evil - demand clear delegation from your managers and when you're the manager, provide clear delegation. Create delegation boards, use delegation levels mechanism. When you interview for joining a company, do not ask them whether they make decisions as a team - try to find out how accountable they are. 
