@@ -31,7 +31,7 @@ Motto in the last decades:
 
 > All decentralization is good, all centralization is evil
 
-That was the dominant mindset near 2010 all around the world.
+That was the dominant mindset for the last decades all around the world.
 
 But what happened later? 
 
