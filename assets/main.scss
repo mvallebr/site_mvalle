@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Width of the content area
+$content-width:    1280px !default;
+ 
+$base-line-height: 1.2 !default;
+
+
+$background-color: #eae1a6 !default;
+$text-color:       #111 !default;
+$post-background-color: #f1f1e4 !default;
+$brand-color:      #7777FF !default;
+
+
+@import "minima";
+
+article {
+    background-color: $post-background-color;
+    padding: $spacing-unit;
+}
+
+.site-title {
+    img {
+        width: 30px;
+        height: 30px;
+        margin-right: $spacing-unit;
+    }
+}
+
+/**
+ * Links
+ */
+ a { 
+    font-weight: bold;   
+}

@@ -2,7 +2,7 @@
 layout: post
 title:  "Your team at work and the american civil war"
 date:   2023-09-02 10:30:00 +0100
-categories: personal
+categories: personal politics
 ---
 I am no specialist in (north) american history, but a simple visit to [wikipedia](https://en.wikipedia.org/wiki/American_Civil_War) is enough to understand the American Civil War was a conflict regarding slavery. From the first paragraph: "The cause of the war was the dispute over whether slavery would be permitted to expand into the western territories, leading to more slave states, or be prevented from doing so, which many believed would place slavery on a course of ultimate extinction.". 
 
