@@ -25,6 +25,8 @@ All those changes in software development world came together with a set of poli
 
 I remember being on a software team a little more than a decade ago where we were discussing About big data tools and comparing [Cassandra](https://cassandra.apache.org/) and [HBase](https://hbase.apache.org/), and the main arguments in the team defending the first was that it was fully distributed, while the second had leader election based in Zookeeper where there would still be a central point. Although we were talking about technical data tool, it was embedded in everyone's mind at that time that "centralized is bad, distributed is good". You didn't have to argue much, just defending de-centralization was usually enough to convince people whatever was the subject, being software, politics, or whatever.
 
+I must mention the crypto currency fever as well - the whole idea of crypto was based on the idea that centralization is bad and everything will be solved if we decentralize stuff. Bitcoin was based on the idea that all economic problems were due to governments and central banks controlling economy and the idea of smart contracts was to automatize the law so no central judge would be needed for agreements, that could be logically programmed. 
+
 This makes sense if you understand that moment - we were coming from a world with little or no decentralization, there was a cultural movement for decades saying "centralization is evil" and our minds became biased towards it. 
 
 Motto in the last decades: 
