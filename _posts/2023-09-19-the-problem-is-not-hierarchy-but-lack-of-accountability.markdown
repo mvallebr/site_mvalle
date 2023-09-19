@@ -3,7 +3,10 @@ layout: post
 title:  "The problem is not hierarchy, but lack of accountability"
 date:   2023-09-19 20:00:00 +0100
 categories: personal politics management
-og:image: /assets/img/people_puzzle.jpeg
+image:
+    path: /assets/img/people_puzzle.jpeg
+    width: 500
+    height: 500
 ---
 
 The mindset towards hierarchy has been changing fast in the last decades. If you saw my last article, [Your team at work and the american civil war](/personal/2023/09/02/your-team-and-the-american-civil-war.html), it will be easier to understand why I think we should change our mental model about how to organize the teams at work. In this article, I will attack specifically the mental model regarding hierarchy.
