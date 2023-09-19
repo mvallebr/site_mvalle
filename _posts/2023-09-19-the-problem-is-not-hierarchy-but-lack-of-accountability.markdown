@@ -9,6 +9,8 @@ The mindset towards hierarchy has been changing fast in the last decades. If you
 
 I start by giving context on the changes that have been happening in the last decades, then discussing about what is the direction the software market is taking and whether it's the right one, to finally give you my opinion on what we should change in our work environments.
 
+![People puzzle](/assets/img/people_puzzle.jpeg)
+
 ## A little bit of history
 
 Back in the day, when I left college, working as a software engineer was much more problematic, in average, in any organization, than what I see in the market today (as of 2023). The big enemy at that time was bureaucracy - software and internet were new things yet and nobody knew exactly how to manage software engineers. 
