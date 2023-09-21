@@ -2,3 +2,4 @@
 - effort and value are not correlated - X
 - Meritocracy based on money and what motivates people
 - lean start up vs vertical scrum stories
+- what being accountable really means - the top of hierarchy is not always the accountable person. If you're a soldier on a war, it's your life, you're the one accountable, not your boss. 
