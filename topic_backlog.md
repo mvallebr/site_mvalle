@@ -7,3 +7,4 @@
 - Choosing companies - people vs challenges - when choosing companies to work, choosing the right challenge with the wrong people is worse than the wrong challenge with the right people
 - Component tests vs integration test - testing trade-offs
 - Stuborn on the vision, flexible in the approach - mental model description
+- Competition among team members (for promotion) - divide and conquer
