@@ -6,3 +6,4 @@
 - the power of a follow - what difference you can make in the world and your accountability on it
 - Choosing companies - people vs challenges
 - Competitive vs collaborative - trade-offs
+- Component tests vs integration test - testing trade-offs
