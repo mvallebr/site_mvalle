@@ -6,3 +6,4 @@
 - the power of a follow - what difference you can make in the world and your accountability on it
 - Choosing companies - people vs challenges - when choosing companies to work, choosing the right challenge with the wrong people is worse than the wrong challenge with the right people
 - Component tests vs integration test - testing trade-offs
+- Stuborn on the vision, flexible in the approach - mental model description
