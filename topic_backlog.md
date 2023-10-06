@@ -5,3 +5,4 @@
 - what being accountable really means - the top of hierarchy is not always the accountable person. If you're a soldier on a war, it's your life, you're the one accountable, not your boss. 
 - the power of a follow - what difference you can make in the world and your accountability on it
 - Choosing companies - people vs challenges
+- Competitive vs collaborative - trade-offs
