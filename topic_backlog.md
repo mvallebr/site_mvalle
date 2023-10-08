@@ -8,3 +8,4 @@
 - Component tests vs integration test - testing trade-offs
 - Stuborn on the vision, flexible in the approach - mental model description
 - Competition among team members (for promotion) - divide and conquer
+- Separation of concerns vs YAGNI
