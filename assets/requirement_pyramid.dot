@@ -1,0 +1,37 @@
+digraph requirements_pyramid {
+  
+  // Graph styling
+  node [shape=box, style=filled, fillcolor=lightgrey];
+  rankdir=TB;  // Top to Bottom direction
+
+  // Define nodes with explicit complexity levels
+  OriginalPain [label="Original Pain:\nNeed new clothes", fillcolor=gold]
+  Level1 [label="Level 1: General Solutions"]
+  Level1Option1 [label="Get more money"]
+  Level1Option2 [label="Walk naked"]
+  Level1Option3 [label="Find affordable clothes online", fillcolor=lightblue]
+  Level2 [label="Level 2: Specific Tasks"]
+  Level2Task1 [label="Search popular online store"]
+  Level2Task2 [label="Search with search engine"]
+  Level2Task3 [label="Write a Python script", fillcolor=lightblue]
+  Level3 [label="Level 3: Detailed Requirements"]
+  Level3Req1 [label="Use pip and pipenv"]
+  Level3Req2 [label="Use pip without a virtual env"]
+  Level3Req3 [label="Use conda"]
+  Level3Req4 [label="Use Docker", fillcolor=lightblue]
+  Level4 [label="Level 4: Implemented Solution\nClothes purchased"]
+
+  // Define invisible edges to enforce ranking
+  { rank=same; Level1Option1 Level1Option2 Level1Option3 }
+  { rank=same; Level2Task1 Level2Task2 Level2Task3 }
+  { rank=same; Level3Req1 Level3Req2 Level3Req3 Level3Req4 }
+  
+  // Define edges
+  OriginalPain -> Level1
+  Level1 -> Level1Option3
+  Level1Option3 -> Level2
+  Level2 -> Level2Task3
+  Level2Task3 -> Level3
+  Level3 -> Level3Req4
+  Level3Req4 -> Level4
+}

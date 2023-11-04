@@ -1,0 +1,45 @@
+digraph requirements_pyramid {
+  
+  // Graph styling
+  node [shape=box, style=filled, fontsize=10];
+  rankdir=TB;  // Top to Bottom direction
+
+  // Nodes with explicit complexity levels and increasing sizes
+  Level1 [label="Level 1 - Pain:\nSupermarket needs to pay taxes\nfor buying and selling goods,\nbut tax system is too complex", fillcolor="gold", width=2, height=0.5]
+  Level2 [label="Level 2 - Create a tax\nsimplification system used by\nthe whole organization", fillcolor="lightblue", width=3, height=0.6]
+  Level3 [label="Level 3 - Create the tax\nsimplification module used by\nwarehouse department", fillcolor="lightblue", width=4, height=0.7]
+  
+  // Levels your team is accountable for with a subtler color and clear label
+  subgraph cluster_accountable {
+    label="Levels my team is accountable for";
+    style="dashed";
+    color=lightgrey;
+    fontsize=14;
+    labeljust="l";
+    margin=20;
+    
+    Level4 [label="Level 4 - Create an SaaS\nsystem using UI Frontend\naccessing microservices", fillcolor="lightyellow", width=5, height=0.8]
+
+    // Nested subgraph for levels you are responsible for
+    subgraph cluster_responsible {
+      label="Levels I am responsible for";
+      style="dashed";
+      color=orange;
+      fontsize=12;
+      labeljust="l";
+
+      Level5 [label="Level 5 - Create micro service\nthat calculates tax for\nwarehouse imported and\nexported goods", fillcolor="lightgray", width=6, height=0.9]
+      Level6 [label="Level 6 - Use Java, spring,\nhybernate and Oracle to\nimplement the micro service", fillcolor="lightgray", width=7, height=1]
+    }
+
+    Level7 [label="Level 7 - To implement\nspring, using ansi conversion\nlibrary and XML SDK", fillcolor="lightyellow", width=8, height=1.1]
+  }
+
+  // Edges to show the chosen path
+  Level1 -> Level2
+  Level2 -> Level3
+  Level3 -> Level4
+  Level4 -> Level5
+  Level5 -> Level6
+  Level6 -> Level7
+}
