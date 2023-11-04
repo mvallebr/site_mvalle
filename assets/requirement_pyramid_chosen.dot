@@ -1,0 +1,17 @@
+digraph requirements_pyramid {
+  
+  // Graph styling
+  node [shape=box, style=filled, fontsize=8];
+  rankdir=TB;  // Top to Bottom direction
+
+  // Nodes with explicit complexity levels and increasing sizes
+  OriginalPain [label="Level 1 - Original Pain:\nNeed new clothes", fillcolor="gold", width=1.5, height=0.5]
+  Level2Task3 [label="Level 2 - Write a Python script", fillcolor="lightblue", width=2, height=0.6]
+  Level3Req4 [label="Level 3 - Use Docker", fillcolor="lightblue", width=3, height=0.7]
+  Level4 [label="Level 4 - Implemented Solution\nClothes purchased", width=4, height=0.8, fillcolor="lightgrey"]
+
+  // Edges to show chosen path
+  OriginalPain -> Level2Task3
+  Level2Task3 -> Level3Req4
+  Level3Req4 -> Level4
+}
