@@ -30,12 +30,16 @@ The company wanted to build a killer product, but the wrong people were leading 
 
 Then you see the example of Open AI stated above, where most people seem to be keen to change the company at any time, but keep following the leadership they believe at. Now I watch again the Steve Jobs video above and I see something different - the engineers were not just following a product vision, they were following Jobs, who was leading the way to that vision and made them really excited in building it. 
 
-What these people probably know and I took so long to realize in my career is that companies are just the recipient of a chemical reaction, it plays a very small role on which reaction will happen. What really matters to get an explosive reaction are the people - they are the ingredients that make that reaction to happen.  
+What these people probably know and I took so long to realize in my career is that 
 
-And how does that translate to practical actions?
+> companies are just the recipient of a chemical reaction, it plays a very small role on which reaction will happen. What really matters to get an explosive reaction are the people - they are the ingredients that make that reaction to happen.  
+
+### And how does that translate to practical actions?
 
 Very recently a recruiter called me and asked whether there was any company I was interested in working at. I basically explained my mental model shifted to wanting to work in companies I like, to wanting to know with people I like. 
 
 So here is my suggestion to you: next time you're looking for a job, when you're interviewing, ask the questions that will reveal to you who the people who will be working with you are, check whether they think like you, whether the mental model aligns, see how they think, what motivates them. If these things don't match, it's very unlikely all the rest will be of any help - you named it: language, technology, product, vision, tools, process... none of these will matter anything if you're working with the wrong people. On the other hard, if all that is not ideal, but the people working with you are the right ones, then everything can be sorted, whatever is not good can be changed or evolved.
 
-I learned the hard way that the people are the biggest asset a company can have, and I hope this article was useful to you to make you think about that next time you're interviewing. Best of luck in your jorney!
+I learned the hard way that the people are the biggest asset a company can have, and I hope this article was useful to you to make you think about that next time you're interviewing. 
+
+Best of luck in your jorney!
