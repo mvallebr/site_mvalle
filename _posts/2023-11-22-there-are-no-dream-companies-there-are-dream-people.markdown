@@ -36,7 +36,7 @@ What these people probably know and I took so long to realize in my career is th
 
 ### And how does that translate to practical actions?
 
-Very recently a recruiter called me and asked whether there was any company I was interested in working at. I basically explained my mental model shifted to wanting to work in companies I like, to wanting to know with people I like. 
+Very recently a recruiter called me and asked whether there was any company I was interested in working at. I basically explained my mental model shifted to wanting to work in companies I like, to wanting to work with the **people** I like. 
 
 So here is my suggestion to you: next time you're looking for a job, when you're interviewing, ask the questions that will reveal to you who the people who will be working with you are, check whether they think like you, whether the mental model aligns, see how they think, what motivates them. If these things don't match, it's very unlikely all the rest will be of any help - you named it: language, technology, product, vision, tools, process... none of these will matter anything if you're working with the wrong people. On the other hard, if all that is not ideal, but the people working with you are the right ones, then everything can be sorted, whatever is not good can be changed or evolved.
 
