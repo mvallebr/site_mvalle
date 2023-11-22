@@ -12,3 +12,4 @@
 - Being able to do Vs responsible / accountable to do it
 - Introducing the requirement piramid
 - Task estimation - why you shouldn't use the average of estimates of a task - what's the purpose of estimation
+- Culture of blame vs accountability - why they are different
