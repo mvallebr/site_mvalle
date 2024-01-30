@@ -14,3 +14,4 @@
 - Task estimation - why you shouldn't use the average of estimates of a task - what's the purpose of estimation
 - Culture of blame vs accountability - why they are different
 - the requirement pyramid and delegation
+- constraint theory - manage by attacking the next bottleneck
