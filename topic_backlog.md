@@ -1,3 +1,4 @@
+- how to not micro manage - explain about acceptance criteria
 - the many flavours of agile - delegation to the team, ownership model, and delegation board for each
 - effort and value are not correlated - X
 - Meritocracy based on money and what motivates people
