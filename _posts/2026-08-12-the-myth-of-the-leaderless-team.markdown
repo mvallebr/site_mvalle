@@ -4,6 +4,10 @@ title:  "The Myth of the Leaderless Team: When Consensus Becomes Control"
 date:   2026-08-12 20:00:00 +0100
 categories: software management leadership
 description: "Good leadership is not the absence of authority. It is creating the conditions for ownership, resilient systems, and more capable leaders."
+image:
+    path: /assets/img/the-myth-of-the-leaderless-team.png
+    width: 1731
+    height: 909
 ---
 
 Imagine that you lead a team of capable people. They own different projects, make design decisions, and are expected to improve the systems they work on.
