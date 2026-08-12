@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Myth of the Leaderless Team: When Consensus Becomes Control"
-date:   2026-08-12 20:00:00 +0100
+date:   2026-08-12 07:00:00 +0100
 categories: software management leadership
 description: "Good leadership is not the absence of authority. It is creating the conditions for ownership, resilient systems, and more capable leaders."
 image:
