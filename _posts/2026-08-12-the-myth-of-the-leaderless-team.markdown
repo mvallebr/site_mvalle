@@ -218,28 +218,7 @@ In a team with ownership, people are responsible for projects. They lead them, m
 </div>
 
 <div class="ownership-illustration">
-<svg viewBox="0 0 900 300" role="img" aria-labelledby="ownership-illustration-title ownership-illustration-description">
-<title id="ownership-illustration-title">From silence to ownership</title>
-<desc id="ownership-illustration-description">In a consensus-driven team, a quiet person chooses to stay silent. In an ownership-driven team, the same person builds a rocket from an idea.</desc>
-<line class="illustration-divider" x1="450" y1="25" x2="450" y2="275" />
-<text class="illustration-label" x="32" y="38">CONSENSUS BY DEFAULT</text>
-<text class="illustration-label" x="482" y="38">OWNERSHIP BY DEFAULT</text>
-<circle class="person-head" cx="175" cy="126" r="25" />
-<path class="person-body" d="M175 151v64m-35 55 35-55 35 55m-35-42-42-35m42 35 42-35" />
-<path class="speech-bubble" d="M235 90h155a14 14 0 0 1 14 14v48a14 14 0 0 1-14 14h-78l-20 20 4-20h-61a14 14 0 0 1-14-14v-48a14 14 0 0 1 14-14z" />
-<text class="illustration-thought" x="253" y="119">I will stay</text>
-<text class="illustration-thought" x="253" y="143">quiet.</text>
-<circle class="person-head" cx="555" cy="126" r="25" />
-<path class="person-body" d="M555 151v64m-35 55 35-55 35 55m-35-42-42-35m42 35 42-35" />
-<path class="rocket-flame" d="M735 218c-12 18-8 31-25 40 1-16-5-23-16-29" />
-<path class="rocket" d="M705 214c-17-32-13-83 23-132 48 36 55 84 32 126l-27 29z" />
-<circle class="rocket-window" cx="729" cy="130" r="10" />
-<path class="rocket-fin" d="M707 198l-31 13 21 17" />
-<path class="rocket-fin" d="M752 211l30 6-14 22" />
-<path class="idea-line" d="M593 103c35-24 62-24 91-13" />
-<path class="idea-arrow" d="m675 84 12 6-10 8" />
-<text class="illustration-thought" x="600" y="61">I can build this.</text>
-</svg>
+<img src="{{ "/assets/img/ownership-by-default.png" | relative_url }}" alt="A visual contrast between a quiet person in a consensus-driven meeting and the same person building a rocket with engineering tools and safety mechanisms." />
 </div>
 
 Ownership does not mean working alone. It means combining autonomous leadership with collaboration, expertise, AI, and other tools. The person who owns the work remains responsible for moving it forward, while the team contributes the best knowledge available when it is useful.

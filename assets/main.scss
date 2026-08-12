@@ -122,17 +122,7 @@ a:hover { color: var(--ink); }
 .post-content .delegation-column strong { font-size: 1.15rem; margin: .7rem 0 1rem; }
 .post-content .delegation-column span { border-top: 1px solid var(--line); font-size: .9rem; padding: .65rem 0; }
 .post-content .ownership-illustration { margin: 3rem 0; max-width: 900px; }
-.post-content .ownership-illustration svg { background: var(--panel); border: 1px solid var(--line); display: block; height: auto; margin: 0; max-width: 100%; padding: 1rem; width: 100%; }
-.ownership-illustration .illustration-divider { stroke: var(--line); stroke-width: 1; }
-.ownership-illustration .illustration-label { fill: var(--accent); font-family: monospace; font-size: 14px; font-weight: 700; letter-spacing: 1px; }
-.ownership-illustration .illustration-thought { fill: var(--ink); font-family: Georgia, serif; font-size: 21px; font-style: italic; }
-.ownership-illustration .person-head, .ownership-illustration .person-body { fill: none; stroke: var(--ink); stroke-linecap: round; stroke-width: 4; }
-.ownership-illustration .speech-bubble { fill: var(--accent-soft); stroke: var(--accent); stroke-width: 2; }
-.ownership-illustration .rocket { fill: #f4b183; stroke: var(--ink); stroke-width: 3; }
-.ownership-illustration .rocket-window { fill: var(--paper); stroke: var(--ink); stroke-width: 3; }
-.ownership-illustration .rocket-fin { fill: var(--accent); stroke: var(--ink); stroke-width: 3; }
-.ownership-illustration .rocket-flame { fill: none; stroke: #f4b183; stroke-linecap: round; stroke-width: 8; }
-.ownership-illustration .idea-line, .ownership-illustration .idea-arrow { fill: none; stroke: var(--accent); stroke-linecap: round; stroke-width: 3; }
+.post-content .ownership-illustration img { background: var(--panel); border: 1px solid var(--line); display: block; height: auto; margin: 0; max-width: 100%; padding: .5rem; width: 100%; }
 .post-content .principle { font-size: 1.25rem; font-weight: 600; }
 .post-content .cycle { align-items: center; display: flex; flex-wrap: wrap; font-family: $base-font-family; gap: .65rem; justify-content: center; margin: 2.5rem 0; max-width: 900px; text-align: center; }
 .post-content .cycle div { background: var(--panel); border: 1px solid var(--line); color: var(--ink); font-family: monospace; font-size: .75rem; line-height: 1.3; padding: .85rem .7rem; }
